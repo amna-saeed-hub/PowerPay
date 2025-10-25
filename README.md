@@ -30,14 +30,14 @@
 </table>
 
 ---
-![Uploading image.png…]()
 
 <h1 align="center">Executive Summary</h1>
 
 <h3 align="center">Collection Analysis (2022–2025)</h3>
+<img width="1433" height="122" alt="PowerPay_Dashboard_Top" src="https://github.com/user-attachments/assets/23525010-2deb-4e04-a7b1-561b78bdc0d3" />
 
 <div align="center">
-  <img width="950" alt="Payment trend chart" src="[https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/PowerPay_Summary_Chart](https://github.com/amna-saeed-hub/PowerPay/blob/main/PowerPay_Dashboard_Top.png)" />
+  
 </div>
 
 <table>
@@ -91,7 +91,8 @@ It includes details of transaction modes, customer categories, payment channels,
 ## Payment Channel Analysis
 
 <div align="center">
-  <img width="1000" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/PowerPay_Channel_Trend.png" />
+  <img width="1633" height="267" alt="PowerPay_Trends" src="https://github.com/user-attachments/assets/ffdc19a4-1366-4a4c-83cc-16639e93dfc2" />
+
 </div>
 
 **Digital (Digital) Payments**
@@ -108,7 +109,8 @@ It includes details of transaction modes, customer categories, payment channels,
 ## Customer Segmentation Insights
 
 <div align="center">
-  <img width="1000" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/PowerPay_Customer_Type_Pie.png" />
+  <img width="1511" height="246" alt="image" src="https://github.com/user-attachments/assets/9bc6dca9-c834-4aa8-8ee5-31f8907944dc" />
+
 </div>
 
 - **Regular customers**: 91% of all users, contributing stable but moderate payment sizes.  
@@ -120,7 +122,8 @@ It includes details of transaction modes, customer categories, payment channels,
 ## Regional (Area) Performance
 
 <div align="center">
-  <img width="1000" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740646006/PowerPay_Area_Performance.png" />
+  <img width="1651" height="389" alt="PowerPay_Regional" src="https://github.com/user-attachments/assets/75aad1c0-9207-49f6-9264-d350b9209980" />
+
 </div>
 
 - **Top Areas:** Area 3, Area 9, Area 1 — leading in both payments and digital transactions.  
