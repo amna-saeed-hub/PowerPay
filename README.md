@@ -1,35 +1,36 @@
 <div align="center">
-  <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/PowerPay_Logo" />
+  <img width="575" height="148" alt="image" src="https://github.com/user-attachments/assets/c3cedb28-eabf-4389-b1e1-e160caef38f4" />
+
 </div>
 
 <h1 align="center">PowerPay Insights Dashboard</h1>
 
-<table>
-<tr>
-<td width="460" valign="top">
-      <h2 align="center">Client Background</h2>
+<table align="center"> 
+<tr> 
+<td width="1440"> 
+<h2 align="center">Client Background</h2> 
+<body>
 
-     
-        <strong>PowerPay</strong> is a regional electricity distribution company serving over 4 million customers through 20 regional business centers (Areas).  
-        Established in 2018, PowerPay provides both residential and commercial connections while promoting its digital transformation initiatives.  
-        Over the years, the company has faced evolving consumer payment preferences — transitioning from manual over-the-counter (Conventional) collections to modern digital platforms (mobile wallets, banking apps, and online portals).
-     
 
-  
-        To enhance revenue collection efficiency and monitor customer behaviour, PowerPay conducted an in-depth analysis of its payment data from <strong>2022–2025</strong>.  
-        The analysis provides actionable insights on channel performance, customer segments, and digital adoption patterns that can guide future collection strategies.
-  
+<strong>PowerPay</strong> is a regional electricity distribution company serving over 4 million customers through 20 regional business centers (Areas). Established in 2018, PowerPay provides both residential and commercial connections while promoting its digital transformation initiatives. Over the years, the company has faced evolving consumer payment preferences — transitioning from manual over-the-counter (Conventional) collections to modern digital platforms (mobile wallets, banking apps, and online portals). 
+<br><br> 
+To enhance revenue collection efficiency and monitor customer behaviour, PowerPay conducted an in-depth analysis of its payment data from <strong>2022–2025</strong>. The analysis provides actionable insights on channel performance, customer segments, and digital adoption patterns that can guide future collection strategies. 
 
-      <h3>Northstar Metrics</h3>
-      <ul>
-        <li><strong>Total Payments:</strong> Tracking total collection amounts across digital and conventional channels.</li>
-        <li><strong>Digital Adoption:</strong> Monitoring migration from cash/cheque payments to online, wallet, and mobile app transactions.</li>
-        <li><strong>Customer Behaviour:</strong> Analysing transaction trends by customer type (Regular vs Loyalty) and category (Residential vs Commercial).</li>
-        <li><strong>Regional Performance:</strong> Evaluating Area-wise payment trends and identifying low-performing areas.</li>
-        <li><strong>Seasonal Analysis:</strong> Understanding collection peaks and dips across months and quarters.</li>
-      </ul>
-    </td>
-  </tr>
+</body>
+
+<h3>Northstar Metrics</h3> 
+<ul> 
+<li>
+<strong>
+Total Payments:</strong> 
+Tracking total collection amounts across digital and conventional channels.</li> 
+<li><strong>Digital Adoption:</strong> Monitoring migration from cash/cheque payments to online, wallet, and mobile app transactions.</li> 
+<li><strong>Customer Behaviour:</strong> Analysing transaction trends by customer type (Regular vs Loyalty) and category (Residential vs Commercial).</li> 
+<li><strong>Regional Performance:</strong> Evaluating Area-wise payment trends and identifying low-performing areas.</li> 
+<li><strong>Seasonal Analysis:</strong> Understanding collection peaks and dips across months and quarters.</li> 
+</ul> 
+</td> 
+</tr> 
 </table>
 
 
