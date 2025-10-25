@@ -87,7 +87,8 @@ It includes details of transaction modes, customer categories, payment channels,
 </body>
 
 <div align="center">
-  <img width="700" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/PowerPay_ERD.png" />
+<img width="1673" height="391" alt="image" src="https://github.com/user-attachments/assets/a46d450a-b96d-4f3e-b8a5-305840d87b04" />
+
 </div>
 
 ---
