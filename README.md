@@ -8,14 +8,17 @@
   <tr>
     <td width="1440">
       <h2 align="center">Client Background</h2>
-      <body>
+
+      <p>
         <strong>PowerPay</strong> is a regional electricity distribution company serving over 4 million customers through 20 regional business centers (Areas).  
         Established in 2018, PowerPay provides both residential and commercial connections while promoting its digital transformation initiatives.  
         Over the years, the company has faced evolving consumer payment preferences — transitioning from manual over-the-counter (Conventional) collections to modern digital platforms (mobile wallets, banking apps, and online portals).
-        <br><br>
+      </p>
+
+      <p>
         To enhance revenue collection efficiency and monitor customer behaviour, PowerPay conducted an in-depth analysis of its payment data from <strong>2022–2025</strong>.  
         The analysis provides actionable insights on channel performance, customer segments, and digital adoption patterns that can guide future collection strategies.
-      </body>
+      </p>
 
       <h3>Northstar Metrics</h3>
       <ul>
@@ -28,6 +31,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
