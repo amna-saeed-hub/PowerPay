@@ -1,92 +1,167 @@
-# PowerPay Insights Dashboard | 2022 – 2025  
+<div align="center">
+  <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/PowerPay_Logo" />
+</div>
 
-## 🏢 Company Background  
-**PowerPay** is a mid-sized electricity distribution company serving over **4 million customers** across 20 regional business centers (Areas).  
-As part of its digital transformation initiative, PowerPay aimed to evaluate how customers are shifting from **conventional payment modes** (cash, cheque, booth counters) to **digital platforms** (mobile apps, e-banking, wallets).  
+<h1 align="center">PowerPay Insights Dashboard</h1>
 
-This dashboard consolidates **payment, transaction, and regional data** between **2022 and 2025**, enabling PowerPay’s management to monitor collection efficiency, digital adoption, and customer behaviour in real time.
+<table align="center">
+  <tr>
+    <td width="1440">
+      <h2 align="center">Client Background</h2>
+      <body>
+        <strong>PowerPay</strong> is a regional electricity distribution company serving over 4 million customers through 20 regional business centers (Areas).  
+        Established in 2018, PowerPay provides both residential and commercial connections while promoting its digital transformation initiatives.  
+        Over the years, the company has faced evolving consumer payment preferences — transitioning from manual over-the-counter (Conventional) collections to modern digital platforms (mobile wallets, banking apps, and online portals).
+        <br><br>
+        To enhance revenue collection efficiency and monitor customer behaviour, PowerPay conducted an in-depth analysis of its payment data from <strong>2022–2025</strong>.  
+        The analysis provides actionable insights on channel performance, customer segments, and digital adoption patterns that can guide future collection strategies.
+      </body>
 
----
-
-## 🎯 Project Objectives  
-- Track total payments and transactions across all Areas.  
-- Compare **Digital** vs **Conventional** payment performance.  
-- Identify leading and lagging Areas based on payment volume and customer type.  
-- Measure the effectiveness of **digital adoption initiatives** and **loyalty programs**.  
-- Highlight seasonal and behavioural trends to support financial forecasting.  
-
----
-
-## 🧩 Dataset Overview  
-Synthetic dataset built to simulate real-world utility data.
-
-| Column | Description |
-|---------|-------------|
-| Date | Payment posting date |
-| Area | Regional office |
-| Mode / Mode Type | Digital or Convetional |
-| Further Breakdown | Channel-level detail (Online Banking, Wallet, Cash, Cheque, etc.) |
-| Consumer Category | Residential, Commercial, Industrial, Temporary |
-| Customer Type | Regular or Loyalty |
-| Paytype / Sub Type | Card, Wallet, Counter, Booth, etc. |
-| Online vs Offline | Indicates digital adoption level |
-| RTPS | Flags for payment completion and integration |
-| Transactions | Number of successful payment events |
-| Amount | Total payment amount collected (PKR) |
-
-🧮 **Records:** 60,000  
-🗓 **Period:** 2022 – 2025  
-📊 **Tool Used:** Power BI  
-💾 **Data Type:** Fully synthetic (non-confidential, generated using Python)
+      <h3>Northstar Metrics</h3>
+      <ul>
+        <li><strong>Total Payments:</strong> Tracking total collection amounts across digital and conventional channels.</li>
+        <li><strong>Digital Adoption:</strong> Monitoring migration from cash/cheque payments to online, wallet, and mobile app transactions.</li>
+        <li><strong>Customer Behaviour:</strong> Analysing transaction trends by customer type (Regular vs Loyalty) and category (Residential vs Commercial).</li>
+        <li><strong>Regional Performance:</strong> Evaluating Area-wise payment trends and identifying low-performing areas.</li>
+        <li><strong>Seasonal Analysis:</strong> Understanding collection peaks and dips across months and quarters.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Dashboard Insights  
+<h1 align="center">Executive Summary</h1>
 
-### **1️⃣ Payment Channel Performance**  
-- **Digital payments dominate** with ~80% share of total collections.  
-- Wallets, online banking, and app-based transactions show strong quarterly growth.  
-- Conventional payments continue to decline (~15–20%) across 2024–2025.  
+<h3 align="center">Collection Analysis (2022–2025)</h3>
 
-### **2️⃣ Regional (Area wise) Insights**  
-- **Top-performing Areas:** Area 3, Area 9, and Area 1 lead in both payments and transaction volume.  
-- **Low-performing Areas:** Area 17–20 show reduced digital adoption and lower payment completion rates.  
+<div align="center">
+  <img width="950" alt="Payment trend chart" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/PowerPay_Summary_Chart.png" />
+</div>
 
-### **3️⃣ Customer Behaviour**  
-- Residential customers form **70% of total transactions** but contribute smaller amounts.  
-- Commercial customers drive **~40% of revenue** with larger payment values.  
-- Loyalty customers show higher engagement and on-time payment frequency.  
+<table>
+<tr>
+<td width="460" valign="top">
 
-### **4️⃣ Seasonal Patterns**  
-- Collections **peak in Mar–Apr and Oct–Dec** (due cycles & festive billing).  
-- **Mid-year (Jun–Jul)** shows low activity.  
-- Weekly analysis reveals Monday–Tuesday spikes post weekend.  
+1. <strong>Digital Growth & Peak Performance</strong>  
+   - Digital (Digital) payments increased from <strong>9.8bn in 2022</strong> to <strong>12.3bn in 2025</strong>, marking a consistent upward trend.  
+   - Online and wallet-based transactions now make up nearly <strong>80%</strong> of all collections.  
+   - The highest monthly collection was recorded in <strong>March 2025</strong> with over <strong>1.12bn</strong> in total payments.
 
-### **5️⃣ 2025 Snapshot**  
-| Metric | Value | Change (YoY) |
-|--------|--------|---------------|
-| **Total Payments** | 15.26 bn | +12.5% |
-| **Digital Payments** | 12.33 bn | +18.7% |
-| **Conventional Payments** | 2.93 bn | –9.4% |
-| **Total Transactions** | 1.32 M | +15.2% |
+2. <strong>Steady Decline in Conventional Payments</strong>  
+   - Over-the-counter (Conventional) collections have declined by <strong>15–20%</strong> over the last two years.  
+   - Rural Areas still contribute heavily to Conventional volumes, while urban centers show stronger digital uptake.
 
----
+</td>
 
-## 💡 Key Recommendations  
-1. Launch **digital cashback & loyalty rewards** to increase wallet usage.  
-2. Provide **targeted outreach** to underperforming regions with low Digital adoption.  
-3. Automate **collection alerts** for seasonal low-collection periods.  
-4. Integrate **complaint analytics** to correlate outages/service issues with payment delays.  
-5. Maintain focus on **digital customer retention**, as digital users show higher consistency.  
+<td width="460" valign="top">
 
----
+3. <strong>Customer Category Insights</strong>  
+   - <strong>Residential customers</strong> account for ~70% of all transactions but contribute smaller payment amounts.  
+   - <strong>Commercial customers</strong>, although only 20% by count, contribute over 40% of the total payment value.  
+   - Loyalty users show higher engagement and on-time payment behaviour.
 
-## 🛠 Tools & Technologies  
-Power BI • Excel • Python (Synthetic Data Generation) • GitHub • Pandas  
+4. <strong>Seasonal & Behavioural Trends</strong>  
+   - Peaks observed in <strong>March–April</strong> and <strong>October–December</strong>.  
+   - A mid-year dip occurs in <strong>June–July</strong> due to lower billing and payment activity.  
+   - Mondays and Tuesdays record the highest weekly transaction volumes.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚠️ Disclaimer  
-All data presented are **synthetically generated** and do not represent any real organization.  
-This project was created purely for analytical and portfolio demonstration purposes.  
+<h2 align="center">Dataset Structure and ERD (Entity Relationship Diagram)</h2>
 
+<body>
+The analytical model is powered by a synthetic dataset designed to replicate realistic utility company payment flows.  
+It includes details of transaction modes, customer categories, payment channels, and regional performance across 20 Areas.
+</body>
+
+<div align="center">
+  <img width="700" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/PowerPay_ERD.png" />
+</div>
+
+---
+
+<h1 align="center">Insights Deep-Dive</h1>
+
+## Payment Channel Analysis
+
+<div align="center">
+  <img width="1000" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/PowerPay_Channel_Trend.png" />
+</div>
+
+**Digital (Digital) Payments**
+- Online banking, wallets, and app payments dominate, driving **over 80% of total revenue**.
+- Wallet and mobile app channels show 25% YoY growth.
+- E-banking transactions peak in March and October.
+
+**Conventional (Conventional) Payments**
+- Conventional modes (cash, cheque, booth) show a gradual decline, particularly after 2023.
+- Booth-based collections maintain relevance only in rural Areas.
+
+---
+
+## Customer Segmentation Insights
+
+<div align="center">
+  <img width="1000" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/PowerPay_Customer_Type_Pie.png" />
+</div>
+
+- **Regular customers**: 91% of all users, contributing stable but moderate payment sizes.  
+- **Loyalty customers**: 9% share but 1.4× higher average payment and 20% higher on-time rate.  
+- Residential customers dominate by volume; commercial customers dominate by value.
+
+---
+
+## Regional (Area) Performance
+
+<div align="center">
+  <img width="1000" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740646006/PowerPay_Area_Performance.png" />
+</div>
+
+- **Top Areas:** Area 3, Area 9, Area 1 — leading in both payments and digital transactions.  
+- **Underperformers:** Area 17–20 show lower digital adoption and lower transaction frequency.  
+- Consistent quarterly improvements seen in Central and North regions.
+
+---
+
+<h1 align="center">Recommendations</h1>
+
+<ul>
+  <h3>Digital Strategy</h3>
+  <li>Continue expanding digital payment infrastructure (wallet integrations, app features).</li>
+  <li>Introduce <strong>cashback or loyalty points</strong> for customers using online channels.</li>
+  <li>Conduct awareness drives in regions lagging in Digital adoption.</li>
+
+  <h3>Customer Experience</h3>
+  <li>Promote loyalty programs — loyalty users show higher on-time payment rates and AOV.</li>
+  <li>Introduce incentives for commercial users to shift fully to digital billing.</li>
+
+  <h3>Operational Efficiency</h3>
+  <li>Automate alerts for low-collection months (June–July).</li>
+  <li>Prioritize digital collection expansion in underperforming Areas (Area 17–20).</li>
+
+  <h3>Performance Optimization</h3>
+  <li>Use predictive models to forecast seasonal payment dips and prevent revenue shortfall.</li>
+  <li>Link customer complaint data with payment records to correlate service quality with collection rates.</li>
+</ul>
+
+---
+
+<h2 align="center">Tools & Technologies</h2>
+
+<div align="center">
+  <p>Power BI | Excel | Python (Data Simulation) | Pandas | GitHub</p>
+</div>
+
+---
+
+<h2 align="center">Disclaimer</h2>
+
+<p align="center">
+All data presented in this dashboard are <strong>synthetically generated</strong> for learning and demonstration purposes only.  
+PowerPay and the data referenced are entirely fictional.
+</p>
