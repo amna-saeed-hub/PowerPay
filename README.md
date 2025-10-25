@@ -12,7 +12,7 @@
 <body>
 
 
-<strong>PowerPay</strong> is a regional electricity distribution company serving over 4 million customers through 20 regional business centers (Areas). Established in 2018, PowerPay provides both residential and commercial connections while promoting its digital transformation initiatives. Over the years, the company has faced evolving consumer payment preferences — transitioning from manual over-the-counter (Conventional) collections to modern digital platforms (mobile wallets, banking apps, and online portals). 
+<strong>PowerPay</strong> is a regional electricity distribution company serving over 4 million customers through 20 regional business centers. Established in 2018, PowerPay provides both residential and commercial connections while promoting its digital transformation initiatives. Over the years, the company has faced evolving consumer payment preferences — transitioning from manual over-the-counter (Conventional) collections to modern digital platforms (mobile wallets, banking apps, and online portals). 
 <br><br> 
 To enhance revenue collection efficiency and monitor customer behaviour, PowerPay conducted an in-depth analysis of its payment data from <strong>2022–2025</strong>. The analysis provides actionable insights on channel performance, customer segments, and digital adoption patterns that can guide future collection strategies. 
 
@@ -51,12 +51,12 @@ Tracking total collection amounts across digital and conventional channels.</li>
 <td width="460" valign="top">
 
 1. <strong>Digital Growth & Peak Performance</strong>  
-   - Digital (Digital) payments increased from <strong>9.8bn in 2022</strong> to <strong>12.3bn in 2025</strong>, marking a consistent upward trend.  
+   - Digital payments increased from <strong>9.8bn in 2022</strong> to <strong>12.3bn in 2025</strong>, marking a consistent upward trend.  
    - Online and wallet-based transactions now make up nearly <strong>80%</strong> of all collections.  
    - The highest monthly collection was recorded in <strong>March 2025</strong> with over <strong>1.12bn</strong> in total payments.
 
 2. <strong>Steady Decline in Conventional Payments</strong>  
-   - Over-the-counter (Conventional) collections have declined by <strong>15–20%</strong> over the last two years.  
+   - Conventional collections have declined by <strong>15–20%</strong> over the last two years.  
    - Rural Areas still contribute heavily to Conventional volumes, while urban centers show stronger digital uptake.
 
 </td>
@@ -101,12 +101,12 @@ It includes details of transaction modes, customer categories, payment channels,
 
 </div>
 
-**Digital (Digital) Payments**
+**Digital Payments**
 - Online banking, wallets, and app payments dominate, driving **over 80% of total revenue**.
 - Wallet and mobile app channels show 25% YoY growth.
 - E-banking transactions peak in March and October.
 
-**Conventional (Conventional) Payments**
+**Conventional Payments**
 - Conventional modes (cash, cheque, booth) show a gradual decline, particularly after 2023.
 - Booth-based collections maintain relevance only in rural Areas.
 
