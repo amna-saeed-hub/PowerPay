@@ -36,7 +36,7 @@
 <h3 align="center">Collection Analysis (2022–2025)</h3>
 
 <div align="center">
-  <img width="950" alt="Payment trend chart" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/PowerPay_Summary_Chart.png" />
+  <img width="950" alt="Payment trend chart" src="[https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/PowerPay_Summary_Chart](https://github.com/amna-saeed-hub/PowerPay/blob/main/PowerPay_Dashboard_Top.png)" />
 </div>
 
 <table>
